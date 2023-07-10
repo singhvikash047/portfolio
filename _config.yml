@@ -1,5 +1,6 @@
 title: Vikash Kumar
 logo: /assets/img/Pic.jpeg
+
 description: 
   <p align="center">
   <a href="https://www.linkedin.com/in/vikash-kumar-0a91bb120/">LinkedIn</a> |
@@ -10,5 +11,8 @@ description:
   Worked with Wipro Ltd at Engineering Design Services team.
   <br>
   </p>
+
+
+
 
 theme: jekyll-theme-minimal
