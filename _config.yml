@@ -1,6 +1,14 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Vikash Kumar
+logo: /assets/img/Pic.jpeg
+description: 
+  <p align="center">
+  <a href="https://www.linkedin.com/in/vikash-kumar-0a91bb120/">LinkedIn</a> |
+  <a href="https://github.com/singhvikash047">GitHub</a>
+
+  <br>   
+  I'm working on Data Science and Machine learning related problems.
+  Worked with Wipro Ltd at Engineering Design Services team.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
